@@ -1,0 +1,51 @@
+nav{
+    background-color: rgb(46, 43, 43);
+    margin-left: 100px;
+    margin-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    text-decoration: none;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration-line: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+select{
+    background-color: rgb(46, 43, 43) ;
+    color: whitesmoke;
+    border:none;
+  
+
+}
+input{
+    box-sizing: border-box;
+    border:none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+
+}
+
+button{
+    color:green;
+    background-color: rgb(46, 43, 43);
+    border-color: green;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+button:hover{
+    color:white;
+    background-color: green;
+
+}
